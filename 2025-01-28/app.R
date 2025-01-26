@@ -1,4 +1,7 @@
 # install.packages("shiny")
+
+# Want to figure out how to make the plot blank upon first launch (before user selects variables)
+
 library(shiny)
 library(ggplot2)
 library(dplyr)

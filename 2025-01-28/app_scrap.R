@@ -1,6 +1,5 @@
 ## app scrap code
 
-# 
 # # Define UI for miles per gallon app ----
 # ui <- fluidPage(
 #   
