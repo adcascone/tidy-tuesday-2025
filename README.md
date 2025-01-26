@@ -1,6 +1,4 @@
-# tidy-tuesday-2025
-
-This is my first attempt at tidy Tuesday!
+# Tidy Tuesday 2025
 
 This project folder is set up with a subdirectory for each week, named according to the subdirectories in the original tidytuesday repo: https://github.com/rfordatascience/tidytuesday/tree/main/data/2025
 
