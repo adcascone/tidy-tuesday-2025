@@ -45,7 +45,7 @@ p <- simpsons_script_lines %>%
        x="", 
        y="% of total words spoken by all characters",
        subtitle='Top 10 speaking characters from 2010-2016',
-       caption="GitHub: adcascone")
+       caption="GitHub: adcascone - Tidy Tuesday 2025 Week 5")
 
 ggsave(plot=p, filename = "./2024-02-04/simpsons_speaking.png", width=4, height=3)
 
